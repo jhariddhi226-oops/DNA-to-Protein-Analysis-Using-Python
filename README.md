@@ -19,6 +19,28 @@ The program automatically:
 - Calculates GC content
 - Generates a structured CSV report
 
+  ## 📸 Project Workflow
+
+![Workflow](infographic.png)
+
+---
+
+## 💻 Python Code
+
+![Python Code](code.png)
+
+---
+
+## 🖥️ Terminal Output
+
+![Terminal Output](terminal.png)
+
+---
+
+## 📄 Generated CSV Report
+
+![CSV Report](csv_output.png)
+
 ---
 
 ## ✨ Features
